@@ -25,10 +25,10 @@ APP_CONFIG = {
     "APP_ICON": "🏭",
     
     # إعدادات GitHub
-    "REPO_NAME": "mahmedabdallh123/Elqds",
+    "REPO_NAME": "mahmedabdallh123/CARD-ANALYSIS",
     "BRANCH": "main",
-    "FILE_PATH": "l4.xlsx",
-    "LOCAL_FILE": "l4.xlsx",
+    "FILE_PATH": "l6.xlsx",
+    "LOCAL_FILE": "l6.xlsx",
     
     # إعدادات الأمان
     "MAX_ACTIVE_USERS": 2,
